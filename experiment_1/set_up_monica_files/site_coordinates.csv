@@ -1,0 +1,61 @@
+SiteNo;Site;Site_Lat_Long;Baseline_Met;Lat;Long;Elevation
+1;Maricopa, USA;33.06, -112.05;USMA0QXX;33.06;-112.05;0
+2;Obregon, Mexico;27.33, -109.9;MXOB0QXX;27.33;-109.9;0
+3;Toluca, Mexico;19.40, -99.68;MXTO0QXX;19.4;-99.68;0
+4;Londrina, Brazil;-23.31, -51.13;BRLO0QXX;-23.31;-51.13;0
+5;Aswan, Egypt;24.10, 32.90;EGAS0QXX;24.1;32.9;26.06
+6;Wad Medani, Sudan;14.40, 33.50;SUWM0QXX;14.4;33.5;0
+7;Dharwar, India;15.43, 75.12;INDH0QXX;15.43;75.12;0
+8;Dinajpur, Bangladesh;25.65, 88.68;BDDI0QXX;25.65;88.68;0
+9;Wageningen, The Netherlands;51.97, 5.63 ;NLWA0QXX;51.97;5.63;9.41
+10;Balcarce, Argentina;-37.75, -58.3;ARBA0QXX;-37.75;-58.3;0
+11;Ludhiana, India;30.90, 75.85;INLU0QXX;30.9;75.85;0
+12;Indore, India;22.72, 75.86;ININ0QXX;22.72;75.86;0
+13;Madison, USA;43.03, -89.4;USMD0QXX;43.03;-89.4;0
+14;Manhattan, USA;39.14, -96.63;USMN0QXX;39.14;-96.63;0
+15;Rothamsted, UK;51.82, -0.37;UKRO0QXX;51.82;-0.37;9.11
+16;Estrees-Mons, France;49.88, 3.00;FREM0QXX;49.88;3;9.53
+17;Orleans, France;47.83, 1.91;FROR0QXX;47.83;1.91;9.8
+18;Schleswig, Germany;54.53, 9.55;GESC0QXX;54.53;9.55;7.39
+19;Nanjing, China;32.03, 118.48;CHNJ0QXX;32.03;118.48;0
+20;Luancheng, China;37.53, 114.41;CHLU0QXX;37.53;114.41;0
+21;Harbin, China;45.45, 126.46;CHHA0QXX;45.45;126.46;0
+22;Kojonup, Australia;-33.84, 117.15;AUKO0QXX;-33.84;117.15;0
+23;Griffith, Australia;-34.17, 146.03;AUGR0QXX;-34.17;146.03;0
+24;Karaj, Iran;35.92, 50.90;IRKA0QXX;35.92;50.9;0
+25;Faisalabad, Pakistan;31.42, 73.12;PKFA0QXX;31.42;73.12;0
+26;Karagandy, Kazakhastan;50.17, 72.74;KZKA0QXX;50.17;72.74;0
+27;Krasnodar, Russia;45.02, 38.95;RUKR0QXX;45.02;38.95;11.73
+28;Poltava, Ukraine;49.37, 33.17;URPO0QXX;49.37;33.17;7.12
+29;Izmir, Turkey;38.60, 27.06;TRIZ0QXX;38.6;27.06;16.37
+30;Lethbridge, Canada;49.70, -112.83;CALE0QXX;49.7;-112.83;0
+31;Itap?, Paraguay;-27.33, -55.88;PAIT0QXX;-28.3;-52.42;0
+32;Santa Rosa, Argentina;-36.37, -64.17;ARSR0QXX;-35.8;-64.17;0
+33;Watkinsville, USA;34.03, - 83.41;USWA0QXX;33.28;-82.5;0
+34;Lind, USA;47.00, - 118.56;USLI0QXX;42.5;-107.83;0
+35;Swift Current, Canada;50.28, -107.78;CASC0QXX;46.29;-99.78;0
+36;Josephsburg, Canada;53.7, -113.06;CAJO0QXX;49.63;-97.13;0
+37;Ventas Huelma, Spain;37.16, -3.83;SPVH0QXX;37.17;-3.43;15.8
+38;Policoro, Italy;40.2, 16.66;ITPO0QXX;40.12;16.87;16.03
+39;Libertinia, Italy;37.5, 14.58;ITLI0QXX;37.85;13.17;14.37
+40;Thessaloniki, Greece;41.08, 22.15;GRTH0QXX;40.66;20.96;9.03
+41;Martonvasar, Hungary;47.35, 18.81;HUMA0QXX;47.83;17.83;8.84
+42;Alexandria, Romania;43.98, 25.35;ROAL0QXX;44.81;24.86;10.42
+43;Sadovo, Bulgaria;42.13, 24.93;BUSA0QXX;42.42;25.62;11.51
+44;Jokioinen, Finland;60.80, 23.48;FIJO0QXX;61.08;24.2;3.18
+45;Yershov, Russia;51.36, 48.26;RUYE0QXX;54.18;37.63;0
+46;Altbasar, Kazakhstan;52.33, 68.58;KZAL0QXX;41.47;69.52;0
+47;Samarkand, Uzbekistan;39.70, 66.98;UZSA0QXX;39.67;66.95;0
+48;Sidi El Aydi, Morocco;33.07, -7.00;MASI0QXX;33.07;-7.62;16.24
+49;Nabeul, Tunisia;36.75, 10.75;TUNA0QXX;36.8;10.97;17.18
+50;Tel Hadya/Aleppo, Syria;36.01, 36.56;SYTH0QXX;36.95;35.58;17.74
+51;Maragheh, Iran;37.38, 46.23;IQMA0QXX;38.17;46.3;0
+52;Ankara, Turkey;39.92, 32.85;TRAN0QXX;37.83;33.08;10.33
+53;Ghoochan, Iran;37.66, 58.50;IRGH0QXX;34.33;61.43;0
+54;Urmar, Pakistan;34.00, 71.55;PKUR0QXX;33.97;71.5;0
+55;Dingxi, China;35.46, 104.73;CHDI0QXX;35.88;104.13;0
+56;Xuchang, China;34.01, 113.51;CHXC0QXX;32.55;112;0
+57;Merredin, Australia;-31.50, 118.2;AUME0QXX;-31.47;118.22;0
+58;Wimmera, Australia;-37.00, 143.00;AUWI0QXX;-36.2;141.77;0
+59;Adi Gudom, Ethiopia;13.25, 39.51;ETAG0QXX;14.13;43.15;0
+60;Glen, South Africa;-28.95, 26.33;ZABL0QXX;-29.99;26.04;0

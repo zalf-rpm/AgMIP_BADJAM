@@ -1,0 +1,15 @@
+MONICA Parameter übernommen von Claas Agmip-Wheat für BADJAM
+
+pc_BeginSensitivePhaseHeatStress
+pc_EndSensitivePhaseHeatStress
+pc_StageTemperatureSum
+pc_BaseDaylength
+pc_DaylengthRequirement
+pc_SpecificLeafArea
+pc_VernalisationRequirement
+pc_MaxAssimilationRate
+
+Steklov: Standard-Parameter für spring wheat aus dem Repo übernommen, da ich von Claas keine Ergebnisse für die Finnland Simulation hatte
+Yekora: für Marokko  habe ich die Parameter von Ägypten übernommen, da ich von Claas keine Ergebnisse für die Finnland Simulation hatte
+Pishtaz: für Marokko  habe ich die Parameter von Ägypten übernommen, da ich von Claas keine Ergebnisse für die Finnland Simulation hatte
+Fuller: für Turkey, Ankara (WW) habe ich Parameter von Brigadier (Ukraine, Bulgaria, Romania) übernommen

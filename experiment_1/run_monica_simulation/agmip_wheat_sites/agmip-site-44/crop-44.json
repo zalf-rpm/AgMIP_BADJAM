@@ -1,0 +1,182 @@
+{
+    "crops": {
+        "WW": {
+            "is-winter-crop": true,
+            "residueParams": [
+                "include-from-file",
+                "monica_parameters/crop-residues/wheat.json"
+            ],
+            "cropParams": {
+                "cultivar": [
+                    "include-from-file",
+                    "monica_parameters/crops/wheat/winter-wheat-apache.json"
+                ],
+                "species": [
+                    "include-from-file",
+                    "monica_parameters/crops/wheat.json"
+                ]
+            }
+        },
+        "SW": {
+            "is-winter-crop": true,
+            "residueParams": [
+                "include-from-file",
+                "monica_parameters/crop-residues/wheat.json"
+            ],
+            "cropParams": {
+                "cultivar": [
+                    "include-from-file",
+                    "monica_parameters/crops/wheat/summer-wheat-steklov-2.json"
+                ],
+                "species": [
+                    "include-from-file",
+                    "monica_parameters/crops/wheat.json"
+                ]
+            }
+        }
+    },
+    "cropRotation": [
+        {
+            "worksteps": [
+                {
+                    "date": "1981-05-02",
+                    "type": "Sowing",
+                    "crop": [
+                        "ref",
+                        "crops",
+                        "SW"
+                    ]
+                },
+                {
+                    "max-3d-precip-sum": 5,
+                    "harvest-time": "maturity",
+                    "max-curr-day-precip": 1,
+                    "min-%-asw": 0,
+                    "max-%-asw": 100,
+                    "latest-date": "1981-11-01",
+                    "type": "AutomaticHarvest"
+                },
+                {
+                    "date": "1981-05-02",
+                    "amount": [
+                        120.0,
+                        "kg N"
+                    ],
+                    "partition": [
+                        "include-from-file",
+                        "monica_parameters/mineral-fertilisers/AN.json"
+                    ],
+                    "type": "MineralFertilization"
+                }
+            ]
+        },
+        {
+            "worksteps": [
+                {
+                    "date": "1982-05-02",
+                    "type": "Sowing",
+                    "crop": [
+                        "ref",
+                        "crops",
+                        "SW"
+                    ]
+                },
+                {
+                    "max-3d-precip-sum": 5,
+                    "harvest-time": "maturity",
+                    "max-curr-day-precip": 1,
+                    "min-%-asw": 0,
+                    "max-%-asw": 100,
+                    "latest-date": "1982-11-01",
+                    "type": "AutomaticHarvest"
+                },
+                {
+                    "date": "1982-05-02",
+                    "amount": [
+                        120.0,
+                        "kg N"
+                    ],
+                    "partition": [
+                        "include-from-file",
+                        "monica_parameters/mineral-fertilisers/AN.json"
+                    ],
+                    "type": "MineralFertilization"
+                }
+            ]
+        },
+        {
+            "worksteps": [
+                {
+                    "date": "1983-05-02",
+                    "type": "Sowing",
+                    "crop": [
+                        "ref",
+                        "crops",
+                        "SW"
+                    ]
+                },
+                {
+                    "max-3d-precip-sum": 5,
+                    "harvest-time": "maturity",
+                    "max-curr-day-precip": 1,
+                    "min-%-asw": 0,
+                    "max-%-asw": 100,
+                    "latest-date": "1983-11-01",
+                    "type": "AutomaticHarvest"
+                },
+                {
+                    "date": "1983-05-02",
+                    "amount": [
+                        120.0,
+                        "kg N"
+                    ],
+                    "partition": [
+                        "include-from-file",
+                        "monica_parameters/mineral-fertilisers/AN.json"
+                    ],
+                    "type": "MineralFertilization"
+                }
+            ]
+        },
+        {
+            "worksteps": [
+                {
+                    "date": "1984-05-02",
+                    "type": "Sowing",
+                    "crop": [
+                        "ref",
+                        "crops",
+                        "SW"
+                    ]
+                },
+                {
+                    "max-3d-precip-sum": 5,
+                    "harvest-time": "maturity",
+                    "max-curr-day-precip": 1,
+                    "min-%-asw": 0,
+                    "max-%-asw": 100,
+                    "latest-date": "1984-11-01",
+                    "type": "AutomaticHarvest"
+                },
+                {
+                    "date": "1984-05-02",
+                    "amount": [
+                        120.0,
+                        "kg N"
+                    ],
+                    "partition": [
+                        "include-from-file",
+                        "monica_parameters/mineral-fertilisers/AN.json"
+                    ],
+                    "type": "MineralFertilization"
+                }
+            ]
+        }
+    ],
+    "CropParameters": {
+        "=": [
+            "include-from-file",
+            "monica_parameters/general/crop.json"
+        ]
+    }
+}

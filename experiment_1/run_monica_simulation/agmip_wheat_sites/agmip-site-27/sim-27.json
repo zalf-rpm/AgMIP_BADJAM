@@ -1,0 +1,28 @@
+{
+    "UseAutomaticIrrigation": true, 
+    "climate.csv": "", 
+    "site.json": "site-27.json", 
+    "start-date": "1980-01-01", 
+    "NumberOfLayers": 20, 
+    "EmergenceMoistureControlOn": false, 
+    "debug?": false, 
+    "crop.json": "crop-27.json", 
+    "WaterDeficitResponseOn": false, 
+    "climate.csv-options": {
+        "csv-separator": ";", 
+        "end-date": "1984-12-31", 
+        "start-date": "1980-01-01"
+    }, 
+    "EmergenceFloodingControlOn": false, 
+    "use-leap-years": true, 
+    "LayerThickness": [
+        0.1, 
+        "m"
+    ], 
+    "UseNMinMineralFertilisingMethod": false, 
+    "output": "", 
+    "NitrogenResponseOn": false, 
+    "include-file-base-path": "D:/Eigene Dateien specka/ZALF/devel/github/AgMIP_BADJAM/experiment_1/run_monica_simulation/", 
+    "end-date": "1984-12-31", 
+    "UseSecondaryYields": true
+}

@@ -1,0 +1,134 @@
+{
+    "crops": {
+        "WW": {
+            "is-winter-crop": true,
+            "residueParams": [
+                "include-from-file",
+                "monica_parameters/crop-residues/wheat.json"
+            ],
+            "cropParams": {
+                "cultivar": [
+                    "include-from-file",
+                    "monica_parameters/crops/wheat/winter-wheat-aminda.json"
+                ],
+                "species": [
+                    "include-from-file",
+                    "monica_parameters/crops/wheat.json"
+                ]
+            }
+        },
+        "SW": {
+            "is-winter-crop": true,
+            "residueParams": [
+                "include-from-file",
+                "monica_parameters/crop-residues/wheat.json"
+            ],
+            "cropParams": {
+                "cultivar": [
+                    "include-from-file",
+                    "monica_parameters/crops/wheat/summer-wheat-basri_bey.json"
+                ],
+                "species": [
+                    "include-from-file",
+                    "monica_parameters/crops/wheat.json"
+                ]
+            }
+        }
+    },
+    "cropRotation": [
+        {
+            "worksteps": [
+                {
+                    "date": "1980-11-05",
+                    "type": "Sowing",
+                    "crop": [
+                        "ref",
+                        "crops",
+                        "WW"
+                    ]
+                },
+                {
+                    "max-3d-precip-sum": 5,
+                    "harvest-time": "maturity",
+                    "max-curr-day-precip": 1,
+                    "min-%-asw": 0,
+                    "max-%-asw": 100,
+                    "latest-date": "1981-09-01",
+                    "type": "AutomaticHarvest"
+                }
+            ]
+        },
+        {
+            "worksteps": [
+                {
+                    "date": "1981-11-05",
+                    "type": "Sowing",
+                    "crop": [
+                        "ref",
+                        "crops",
+                        "WW"
+                    ]
+                },
+                {
+                    "max-3d-precip-sum": 5,
+                    "harvest-time": "maturity",
+                    "max-curr-day-precip": 1,
+                    "min-%-asw": 0,
+                    "max-%-asw": 100,
+                    "latest-date": "1982-09-01",
+                    "type": "AutomaticHarvest"
+                }
+            ]
+        },
+        {
+            "worksteps": [
+                {
+                    "date": "1982-11-05",
+                    "type": "Sowing",
+                    "crop": [
+                        "ref",
+                        "crops",
+                        "WW"
+                    ]
+                },
+                {
+                    "max-3d-precip-sum": 5,
+                    "harvest-time": "maturity",
+                    "max-curr-day-precip": 1,
+                    "min-%-asw": 0,
+                    "max-%-asw": 100,
+                    "latest-date": "1983-09-01",
+                    "type": "AutomaticHarvest"
+                }
+            ]
+        },
+        {
+            "worksteps": [
+                {
+                    "date": "1983-11-05",
+                    "type": "Sowing",
+                    "crop": [
+                        "ref",
+                        "crops",
+                        "WW"
+                    ]
+                },
+                {
+                    "max-3d-precip-sum": 5,
+                    "harvest-time": "maturity",
+                    "max-curr-day-precip": 1,
+                    "min-%-asw": 0,
+                    "max-%-asw": 100,
+                    "latest-date": "1984-09-01",
+                    "type": "AutomaticHarvest"
+                }
+            ]
+        }
+    ],
+    "CropParameters": {
+        "=": [
+            "include-from-file",
+            "monica_parameters/general/crop.json"
+        ]
+    }
+}

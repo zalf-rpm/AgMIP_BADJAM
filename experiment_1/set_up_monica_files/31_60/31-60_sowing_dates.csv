@@ -1,0 +1,901 @@
+SiteNo;Site;Location;Year;sowdate
+31;Itapúa, Paraguay;PAIT;1981;25_May_1981
+31;Itapúa, Paraguay;PAIT;1982;08_Jun_1982
+31;Itapúa, Paraguay;PAIT;1983;26_May_1983
+31;Itapúa, Paraguay;PAIT;1984;03_Jun_1984
+31;Itapúa, Paraguay;PAIT;1985;25_May_1985
+31;Itapúa, Paraguay;PAIT;1986;25_May_1986
+31;Itapúa, Paraguay;PAIT;1987;03_Jun_1987
+31;Itapúa, Paraguay;PAIT;1988;25_May_1988
+31;Itapúa, Paraguay;PAIT;1989;03_Jun_1989
+31;Itapúa, Paraguay;PAIT;1990;28_May_1990
+31;Itapúa, Paraguay;PAIT;1991;25_May_1991
+31;Itapúa, Paraguay;PAIT;1992;25_May_1992
+31;Itapúa, Paraguay;PAIT;1993;30_May_1993
+31;Itapúa, Paraguay;PAIT;1994;25_May_1994
+31;Itapúa, Paraguay;PAIT;1995;09_Jun_1995
+31;Itapúa, Paraguay;PAIT;1996;25_May_1996
+31;Itapúa, Paraguay;PAIT;1997;25_May_1997
+31;Itapúa, Paraguay;PAIT;1998;26_May_1998
+31;Itapúa, Paraguay;PAIT;1999;27_May_1999
+31;Itapúa, Paraguay;PAIT;2000;04_Jun_2000
+31;Itapúa, Paraguay;PAIT;2001;25_May_2001
+31;Itapúa, Paraguay;PAIT;2002;30_May_2002
+31;Itapúa, Paraguay;PAIT;2003;04_Jun_2003
+31;Itapúa, Paraguay;PAIT;2004;25_May_2004
+31;Itapúa, Paraguay;PAIT;2005;25_May_2005
+31;Itapúa, Paraguay;PAIT;2006;05_Jun_2006
+31;Itapúa, Paraguay;PAIT;2007;25_May_2007
+31;Itapúa, Paraguay;PAIT;2008;29_May_2008
+31;Itapúa, Paraguay;PAIT;2009;25_May_2009
+31;Itapúa, Paraguay;PAIT;2010;25_May_2010
+32;Santa Rosa, Argentina;ARSR;1981;05_Jun_1981
+32;Santa Rosa, Argentina;ARSR;1982;05_Aug_1982
+32;Santa Rosa, Argentina;ARSR;1983;05_Aug_1983
+32;Santa Rosa, Argentina;ARSR;1984;21_Jun_1984
+32;Santa Rosa, Argentina;ARSR;1985;18_Jul_1985
+32;Santa Rosa, Argentina;ARSR;1986;05_Aug_1986
+32;Santa Rosa, Argentina;ARSR;1987;02_Jul_1987
+32;Santa Rosa, Argentina;ARSR;1988;18_Jun_1988
+32;Santa Rosa, Argentina;ARSR;1989;05_Jun_1989
+32;Santa Rosa, Argentina;ARSR;1990;05_Aug_1990
+32;Santa Rosa, Argentina;ARSR;1991;05_Jun_1991
+32;Santa Rosa, Argentina;ARSR;1992;20_Jun_1992
+32;Santa Rosa, Argentina;ARSR;1993;08_Jun_1993
+32;Santa Rosa, Argentina;ARSR;1994;22_Jun_1994
+32;Santa Rosa, Argentina;ARSR;1995;05_Aug_1995
+32;Santa Rosa, Argentina;ARSR;1996;09_Jul_1996
+32;Santa Rosa, Argentina;ARSR;1997;12_Jun_1997
+32;Santa Rosa, Argentina;ARSR;1998;11_Jun_1998
+32;Santa Rosa, Argentina;ARSR;1999;18_Jun_1999
+32;Santa Rosa, Argentina;ARSR;2000;16_Jun_2000
+32;Santa Rosa, Argentina;ARSR;2001;15_Jun_2001
+32;Santa Rosa, Argentina;ARSR;2002;06_Jun_2002
+32;Santa Rosa, Argentina;ARSR;2003;05_Aug_2003
+32;Santa Rosa, Argentina;ARSR;2004;24_Jul_2004
+32;Santa Rosa, Argentina;ARSR;2005;19_Jun_2005
+32;Santa Rosa, Argentina;ARSR;2006;05_Aug_2006
+32;Santa Rosa, Argentina;ARSR;2007;05_Aug_2007
+32;Santa Rosa, Argentina;ARSR;2008;20_Jun_2008
+32;Santa Rosa, Argentina;ARSR;2009;05_Aug_2009
+32;Santa Rosa, Argentina;ARSR;2010;05_Aug_2010
+33;Watkinsville, USA;USWA;1981;25_Nov_1980
+33;Watkinsville, USA;USWA;1982;28_Nov_1981
+33;Watkinsville, USA;USWA;1983;29_Nov_1982
+33;Watkinsville, USA;USWA;1984;25_Nov_1983
+33;Watkinsville, USA;USWA;1985;29_Nov_1984
+33;Watkinsville, USA;USWA;1986;25_Nov_1985
+33;Watkinsville, USA;USWA;1987;25_Nov_1986
+33;Watkinsville, USA;USWA;1988;27_Nov_1987
+33;Watkinsville, USA;USWA;1989;25_Nov_1988
+33;Watkinsville, USA;USWA;1990;25_Nov_1989
+33;Watkinsville, USA;USWA;1991;04_Dec_1990
+33;Watkinsville, USA;USWA;1992;25_Nov_1991
+33;Watkinsville, USA;USWA;1993;25_Nov_1992
+33;Watkinsville, USA;USWA;1994;28_Nov_1993
+33;Watkinsville, USA;USWA;1995;25_Nov_1994
+33;Watkinsville, USA;USWA;1996;08_Dec_1995
+33;Watkinsville, USA;USWA;1997;27_Nov_1996
+33;Watkinsville, USA;USWA;1998;25_Nov_1997
+33;Watkinsville, USA;USWA;1999;13_Dec_1998
+33;Watkinsville, USA;USWA;2000;26_Nov_1999
+33;Watkinsville, USA;USWA;2001;26_Nov_2000
+33;Watkinsville, USA;USWA;2002;25_Nov_2001
+33;Watkinsville, USA;USWA;2003;25_Nov_2002
+33;Watkinsville, USA;USWA;2004;29_Nov_2003
+33;Watkinsville, USA;USWA;2005;25_Nov_2004
+33;Watkinsville, USA;USWA;2006;25_Nov_2005
+33;Watkinsville, USA;USWA;2007;02_Dec_2006
+33;Watkinsville, USA;USWA;2008;25_Nov_2007
+33;Watkinsville, USA;USWA;2009;30_Nov_2008
+33;Watkinsville, USA;USWA;2010;25_Nov_2009
+34;Lind, USA;USLI;1981;14_Sep_1980
+34;Lind, USA;USLI;1982;10_Oct_1981
+34;Lind, USA;USLI;1983;13_Sep_1982
+34;Lind, USA;USLI;1984;28_Oct_1983
+34;Lind, USA;USLI;1985;24_Sep_1984
+34;Lind, USA;USLI;1986;13_Sep_1985
+34;Lind, USA;USLI;1987;19_Sep_1986
+34;Lind, USA;USLI;1988;28_Oct_1987
+34;Lind, USA;USLI;1989;20_Sep_1988
+34;Lind, USA;USLI;1990;24_Oct_1989
+34;Lind, USA;USLI;1991;16_Oct_1990
+34;Lind, USA;USLI;1992;27_Oct_1991
+34;Lind, USA;USLI;1993;28_Oct_1992
+34;Lind, USA;USLI;1994;28_Oct_1993
+34;Lind, USA;USLI;1995;28_Oct_1994
+34;Lind, USA;USLI;1996;08_Sep_1995
+34;Lind, USA;USLI;1997;20_Oct_1996
+34;Lind, USA;USLI;1998;19_Sep_1997
+34;Lind, USA;USLI;1999;28_Oct_1998
+34;Lind, USA;USLI;2000;28_Oct_1999
+34;Lind, USA;USLI;2001;28_Oct_2000
+34;Lind, USA;USLI;2002;28_Oct_2001
+34;Lind, USA;USLI;2003;28_Oct_2002
+34;Lind, USA;USLI;2004;28_Oct_2003
+34;Lind, USA;USLI;2005;28_Aug_2004
+34;Lind, USA;USLI;2006;02_Oct_2005
+34;Lind, USA;USLI;2007;17_Oct_2006
+34;Lind, USA;USLI;2008;02_Oct_2007
+34;Lind, USA;USLI;2009;28_Oct_2008
+34;Lind, USA;USLI;2010;18_Oct_2009
+35;Swift Current, Canada;CASC;1981;02_Jun_1981
+35;Swift Current, Canada;CASC;1982;20_May_1982
+35;Swift Current, Canada;CASC;1983;13_Jun_1983
+35;Swift Current, Canada;CASC;1984;07_Jun_1984
+35;Swift Current, Canada;CASC;1985;11_Jun_1985
+35;Swift Current, Canada;CASC;1986;22_May_1986
+35;Swift Current, Canada;CASC;1987;28_May_1987
+35;Swift Current, Canada;CASC;1988;31_May_1988
+35;Swift Current, Canada;CASC;1989;18_May_1989
+35;Swift Current, Canada;CASC;1990;18_May_1990
+35;Swift Current, Canada;CASC;1991;18_May_1991
+35;Swift Current, Canada;CASC;1992;01_Jun_1992
+35;Swift Current, Canada;CASC;1993;16_Jun_1993
+35;Swift Current, Canada;CASC;1994;18_May_1994
+35;Swift Current, Canada;CASC;1995;22_May_1995
+35;Swift Current, Canada;CASC;1996;18_May_1996
+35;Swift Current, Canada;CASC;1997;22_May_1997
+35;Swift Current, Canada;CASC;1998;19_May_1998
+35;Swift Current, Canada;CASC;1999;18_May_1999
+35;Swift Current, Canada;CASC;2000;02_Jun_2000
+35;Swift Current, Canada;CASC;2001;01_Jun_2001
+35;Swift Current, Canada;CASC;2002;04_Jun_2002
+35;Swift Current, Canada;CASC;2003;03_Jun_2003
+35;Swift Current, Canada;CASC;2004;24_May_2004
+35;Swift Current, Canada;CASC;2005;19_May_2005
+35;Swift Current, Canada;CASC;2006;25_May_2006
+35;Swift Current, Canada;CASC;2007;23_May_2007
+35;Swift Current, Canada;CASC;2008;26_May_2008
+35;Swift Current, Canada;CASC;2009;18_May_2009
+35;Swift Current, Canada;CASC;2010;24_May_2010
+36;Josephsburg, Canada;CAJO;1981;04_Jun_1981
+36;Josephsburg, Canada;CAJO;1982;20_May_1982
+36;Josephsburg, Canada;CAJO;1983;19_Jun_1983
+36;Josephsburg, Canada;CAJO;1984;18_May_1984
+36;Josephsburg, Canada;CAJO;1985;26_May_1985
+36;Josephsburg, Canada;CAJO;1986;15_May_1986
+36;Josephsburg, Canada;CAJO;1987;20_May_1987
+36;Josephsburg, Canada;CAJO;1988;01_Jun_1988
+36;Josephsburg, Canada;CAJO;1989;20_May_1989
+36;Josephsburg, Canada;CAJO;1990;25_May_1990
+36;Josephsburg, Canada;CAJO;1991;15_May_1991
+36;Josephsburg, Canada;CAJO;1992;21_May_1992
+36;Josephsburg, Canada;CAJO;1993;27_May_1993
+36;Josephsburg, Canada;CAJO;1994;17_May_1994
+36;Josephsburg, Canada;CAJO;1995;16_May_1995
+36;Josephsburg, Canada;CAJO;1996;31_May_1996
+36;Josephsburg, Canada;CAJO;1997;18_May_1997
+36;Josephsburg, Canada;CAJO;1998;16_May_1998
+36;Josephsburg, Canada;CAJO;1999;15_May_1999
+36;Josephsburg, Canada;CAJO;2000;15_May_2000
+36;Josephsburg, Canada;CAJO;2001;31_May_2001
+36;Josephsburg, Canada;CAJO;2002;23_May_2002
+36;Josephsburg, Canada;CAJO;2003;04_Jun_2003
+36;Josephsburg, Canada;CAJO;2004;30_May_2004
+36;Josephsburg, Canada;CAJO;2005;17_May_2005
+36;Josephsburg, Canada;CAJO;2006;22_May_2006
+36;Josephsburg, Canada;CAJO;2007;11_Jun_2007
+36;Josephsburg, Canada;CAJO;2008;22_May_2008
+36;Josephsburg, Canada;CAJO;2009;17_Jun_2009
+36;Josephsburg, Canada;CAJO;2010;22_May_2010
+37;Ventas Huelma, Spain;SPVH;1981;18_Feb_1981
+37;Ventas Huelma, Spain;SPVH;1982;18_Dec_1981
+37;Ventas Huelma, Spain;SPVH;1983;22_Dec_1982
+37;Ventas Huelma, Spain;SPVH;1984;18_Dec_1983
+37;Ventas Huelma, Spain;SPVH;1985;07_Jan_1985
+37;Ventas Huelma, Spain;SPVH;1986;26_Dec_1985
+37;Ventas Huelma, Spain;SPVH;1987;18_Dec_1986
+37;Ventas Huelma, Spain;SPVH;1988;18_Dec_1987
+37;Ventas Huelma, Spain;SPVH;1989;07_Jan_1989
+37;Ventas Huelma, Spain;SPVH;1990;18_Dec_1989
+37;Ventas Huelma, Spain;SPVH;1991;18_Feb_1991
+37;Ventas Huelma, Spain;SPVH;1992;18_Feb_1992
+37;Ventas Huelma, Spain;SPVH;1993;18_Dec_1992
+37;Ventas Huelma, Spain;SPVH;1994;07_Jan_1994
+37;Ventas Huelma, Spain;SPVH;1995;18_Feb_1995
+37;Ventas Huelma, Spain;SPVH;1996;18_Dec_1995
+37;Ventas Huelma, Spain;SPVH;1997;18_Dec_1996
+37;Ventas Huelma, Spain;SPVH;1998;18_Dec_1997
+37;Ventas Huelma, Spain;SPVH;1999;31_Dec_1998
+37;Ventas Huelma, Spain;SPVH;2000;18_Dec_1999
+37;Ventas Huelma, Spain;SPVH;2001;24_Dec_2000
+37;Ventas Huelma, Spain;SPVH;2002;18_Dec_2001
+37;Ventas Huelma, Spain;SPVH;2003;18_Dec_2002
+37;Ventas Huelma, Spain;SPVH;2004;29_Jan_2004
+37;Ventas Huelma, Spain;SPVH;2005;08_Feb_2005
+37;Ventas Huelma, Spain;SPVH;2006;28_Dec_2005
+37;Ventas Huelma, Spain;SPVH;2007;26_Jan_2007
+37;Ventas Huelma, Spain;SPVH;2008;25_Dec_2007
+37;Ventas Huelma, Spain;SPVH;2009;18_Dec_2008
+37;Ventas Huelma, Spain;SPVH;2010;19_Dec_2009
+38;Policoro, Italy;ITPO;1981;28_Nov_1980
+38;Policoro, Italy;ITPO;1982;13_Dec_1981
+38;Policoro, Italy;ITPO;1983;17_Nov_1982
+38;Policoro, Italy;ITPO;1984;18_Nov_1983
+38;Policoro, Italy;ITPO;1985;17_Nov_1984
+38;Policoro, Italy;ITPO;1986;19_Nov_1985
+38;Policoro, Italy;ITPO;1987;17_Nov_1986
+38;Policoro, Italy;ITPO;1988;22_Nov_1987
+38;Policoro, Italy;ITPO;1989;22_Nov_1988
+38;Policoro, Italy;ITPO;1990;09_Dec_1989
+38;Policoro, Italy;ITPO;1991;17_Nov_1990
+38;Policoro, Italy;ITPO;1992;18_Nov_1991
+38;Policoro, Italy;ITPO;1993;17_Nov_1992
+38;Policoro, Italy;ITPO;1994;23_Nov_1993
+38;Policoro, Italy;ITPO;1995;21_Dec_1994
+38;Policoro, Italy;ITPO;1996;17_Nov_1995
+38;Policoro, Italy;ITPO;1997;20_Nov_1996
+38;Policoro, Italy;ITPO;1998;17_Nov_1997
+38;Policoro, Italy;ITPO;1999;17_Nov_1998
+38;Policoro, Italy;ITPO;2000;23_Nov_1999
+38;Policoro, Italy;ITPO;2001;20_Nov_2000
+38;Policoro, Italy;ITPO;2002;17_Nov_2001
+38;Policoro, Italy;ITPO;2003;19_Nov_2002
+38;Policoro, Italy;ITPO;2004;27_Nov_2003
+38;Policoro, Italy;ITPO;2005;17_Nov_2004
+38;Policoro, Italy;ITPO;2006;23_Nov_2005
+38;Policoro, Italy;ITPO;2007;12_Dec_2006
+38;Policoro, Italy;ITPO;2008;17_Nov_2007
+38;Policoro, Italy;ITPO;2009;17_Nov_2008
+38;Policoro, Italy;ITPO;2010;15_Dec_2009
+39;Libertinia, Italy;ITLI;1981;05_Dec_1980
+39;Libertinia, Italy;ITLI;1982;30_Nov_1981
+39;Libertinia, Italy;ITLI;1983;29_Nov_1982
+39;Libertinia, Italy;ITLI;1984;26_Nov_1983
+39;Libertinia, Italy;ITLI;1985;26_Nov_1984
+39;Libertinia, Italy;ITLI;1986;27_Nov_1985
+39;Libertinia, Italy;ITLI;1987;26_Nov_1986
+39;Libertinia, Italy;ITLI;1988;29_Nov_1987
+39;Libertinia, Italy;ITLI;1989;26_Nov_1988
+39;Libertinia, Italy;ITLI;1990;28_Nov_1989
+39;Libertinia, Italy;ITLI;1991;26_Nov_1990
+39;Libertinia, Italy;ITLI;1992;26_Nov_1991
+39;Libertinia, Italy;ITLI;1993;09_Dec_1992
+39;Libertinia, Italy;ITLI;1994;26_Nov_1993
+39;Libertinia, Italy;ITLI;1995;22_Dec_1994
+39;Libertinia, Italy;ITLI;1996;26_Nov_1995
+39;Libertinia, Italy;ITLI;1997;27_Nov_1996
+39;Libertinia, Italy;ITLI;1998;26_Nov_1997
+39;Libertinia, Italy;ITLI;1999;26_Nov_1998
+39;Libertinia, Italy;ITLI;2000;26_Nov_1999
+39;Libertinia, Italy;ITLI;2001;26_Nov_2000
+39;Libertinia, Italy;ITLI;2002;11_Dec_2001
+39;Libertinia, Italy;ITLI;2003;27_Nov_2002
+39;Libertinia, Italy;ITLI;2004;26_Nov_2003
+39;Libertinia, Italy;ITLI;2005;10_Dec_2004
+39;Libertinia, Italy;ITLI;2006;01_Dec_2005
+39;Libertinia, Italy;ITLI;2007;26_Nov_2006
+39;Libertinia, Italy;ITLI;2008;29_Nov_2007
+39;Libertinia, Italy;ITLI;2009;26_Nov_2008
+39;Libertinia, Italy;ITLI;2010;05_Dec_2009
+40;Thessaloniki, Greece;GRTH;1981;02_Dec_1980
+40;Thessaloniki, Greece;GRTH;1982;16_Nov_1981
+40;Thessaloniki, Greece;GRTH;1983;17_Nov_1982
+40;Thessaloniki, Greece;GRTH;1984;16_Nov_1983
+40;Thessaloniki, Greece;GRTH;1985;19_Nov_1984
+40;Thessaloniki, Greece;GRTH;1986;20_Nov_1985
+40;Thessaloniki, Greece;GRTH;1987;21_Dec_1986
+40;Thessaloniki, Greece;GRTH;1988;15_Nov_1987
+40;Thessaloniki, Greece;GRTH;1989;15_Nov_1988
+40;Thessaloniki, Greece;GRTH;1990;26_Nov_1989
+40;Thessaloniki, Greece;GRTH;1991;01_Dec_1990
+40;Thessaloniki, Greece;GRTH;1992;22_Nov_1991
+40;Thessaloniki, Greece;GRTH;1993;15_Nov_1992
+40;Thessaloniki, Greece;GRTH;1994;15_Nov_1993
+40;Thessaloniki, Greece;GRTH;1995;15_Nov_1994
+40;Thessaloniki, Greece;GRTH;1996;16_Nov_1995
+40;Thessaloniki, Greece;GRTH;1997;20_Nov_1996
+40;Thessaloniki, Greece;GRTH;1998;15_Nov_1997
+40;Thessaloniki, Greece;GRTH;1999;15_Nov_1998
+40;Thessaloniki, Greece;GRTH;2000;17_Nov_1999
+40;Thessaloniki, Greece;GRTH;2001;26_Nov_2000
+40;Thessaloniki, Greece;GRTH;2002;14_Dec_2001
+40;Thessaloniki, Greece;GRTH;2003;02_Dec_2002
+40;Thessaloniki, Greece;GRTH;2004;29_Nov_2003
+40;Thessaloniki, Greece;GRTH;2005;15_Nov_2004
+40;Thessaloniki, Greece;GRTH;2006;19_Nov_2005
+40;Thessaloniki, Greece;GRTH;2007;24_Nov_2006
+40;Thessaloniki, Greece;GRTH;2008;15_Nov_2007
+40;Thessaloniki, Greece;GRTH;2009;19_Nov_2008
+40;Thessaloniki, Greece;GRTH;2010;03_Dec_2009
+41;Martonvasar, Hungary;HUMA;1981;15_Nov_1980
+41;Martonvasar, Hungary;HUMA;1982;29_Nov_1981
+41;Martonvasar, Hungary;HUMA;1983;15_Nov_1982
+41;Martonvasar, Hungary;HUMA;1984;28_Nov_1983
+41;Martonvasar, Hungary;HUMA;1985;18_Nov_1984
+41;Martonvasar, Hungary;HUMA;1986;15_Nov_1985
+41;Martonvasar, Hungary;HUMA;1987;16_Dec_1986
+41;Martonvasar, Hungary;HUMA;1988;15_Nov_1987
+41;Martonvasar, Hungary;HUMA;1989;26_Nov_1988
+41;Martonvasar, Hungary;HUMA;1990;15_Jan_1990
+41;Martonvasar, Hungary;HUMA;1991;25_Nov_1990
+41;Martonvasar, Hungary;HUMA;1992;17_Nov_1991
+41;Martonvasar, Hungary;HUMA;1993;18_Nov_1992
+41;Martonvasar, Hungary;HUMA;1994;15_Nov_1993
+41;Martonvasar, Hungary;HUMA;1995;15_Nov_1994
+41;Martonvasar, Hungary;HUMA;1996;18_Nov_1995
+41;Martonvasar, Hungary;HUMA;1997;21_Nov_1996
+41;Martonvasar, Hungary;HUMA;1998;15_Nov_1997
+41;Martonvasar, Hungary;HUMA;1999;15_Nov_1998
+41;Martonvasar, Hungary;HUMA;2000;15_Nov_1999
+41;Martonvasar, Hungary;HUMA;2001;27_Nov_2000
+41;Martonvasar, Hungary;HUMA;2002;15_Nov_2001
+41;Martonvasar, Hungary;HUMA;2003;03_Dec_2002
+41;Martonvasar, Hungary;HUMA;2004;29_Nov_2003
+41;Martonvasar, Hungary;HUMA;2005;15_Nov_2004
+41;Martonvasar, Hungary;HUMA;2006;18_Nov_2005
+41;Martonvasar, Hungary;HUMA;2007;15_Nov_2006
+41;Martonvasar, Hungary;HUMA;2008;15_Nov_2007
+41;Martonvasar, Hungary;HUMA;2009;25_Nov_2008
+41;Martonvasar, Hungary;HUMA;2010;15_Nov_2009
+42;Alexandria, Romania;ROAL;1981;21_Oct_1980
+42;Alexandria, Romania;ROAL;1982;10_Nov_1981
+42;Alexandria, Romania;ROAL;1983;07_Oct_1982
+42;Alexandria, Romania;ROAL;1984;30_Nov_1983
+42;Alexandria, Romania;ROAL;1985;19_Nov_1984
+42;Alexandria, Romania;ROAL;1986;06_Nov_1985
+42;Alexandria, Romania;ROAL;1987;18_Oct_1986
+42;Alexandria, Romania;ROAL;1988;14_Oct_1987
+42;Alexandria, Romania;ROAL;1989;07_Oct_1988
+42;Alexandria, Romania;ROAL;1990;11_Oct_1989
+42;Alexandria, Romania;ROAL;1991;02_Dec_1990
+42;Alexandria, Romania;ROAL;1992;07_Oct_1991
+42;Alexandria, Romania;ROAL;1993;15_Nov_1992
+42;Alexandria, Romania;ROAL;1994;07_Oct_1993
+42;Alexandria, Romania;ROAL;1995;07_Oct_1994
+42;Alexandria, Romania;ROAL;1996;28_Oct_1995
+42;Alexandria, Romania;ROAL;1997;21_Nov_1996
+42;Alexandria, Romania;ROAL;1998;13_Oct_1997
+42;Alexandria, Romania;ROAL;1999;07_Oct_1998
+42;Alexandria, Romania;ROAL;2000;20_Oct_1999
+42;Alexandria, Romania;ROAL;2001;29_Nov_2000
+42;Alexandria, Romania;ROAL;2002;15_Nov_2001
+42;Alexandria, Romania;ROAL;2003;08_Oct_2002
+42;Alexandria, Romania;ROAL;2004;07_Oct_2003
+42;Alexandria, Romania;ROAL;2005;10_Nov_2004
+42;Alexandria, Romania;ROAL;2006;07_Oct_2005
+42;Alexandria, Romania;ROAL;2007;07_Oct_2006
+42;Alexandria, Romania;ROAL;2008;22_Oct_2007
+42;Alexandria, Romania;ROAL;2009;07_Oct_2008
+42;Alexandria, Romania;ROAL;2010;07_Oct_2009
+43;Sadovo, Bulgaria;BUSA;1981;15_Oct_1980
+43;Sadovo, Bulgaria;BUSA;1982;10_Nov_1981
+43;Sadovo, Bulgaria;BUSA;1983;17_Nov_1982
+43;Sadovo, Bulgaria;BUSA;1984;01_Dec_1983
+43;Sadovo, Bulgaria;BUSA;1985;20_Nov_1984
+43;Sadovo, Bulgaria;BUSA;1986;05_Nov_1985
+43;Sadovo, Bulgaria;BUSA;1987;29_Oct_1986
+43;Sadovo, Bulgaria;BUSA;1988;05_Nov_1987
+43;Sadovo, Bulgaria;BUSA;1989;01_Nov_1988
+43;Sadovo, Bulgaria;BUSA;1990;16_Oct_1989
+43;Sadovo, Bulgaria;BUSA;1991;02_Dec_1990
+43;Sadovo, Bulgaria;BUSA;1992;22_Oct_1991
+43;Sadovo, Bulgaria;BUSA;1993;15_Oct_1992
+43;Sadovo, Bulgaria;BUSA;1994;12_Nov_1993
+43;Sadovo, Bulgaria;BUSA;1995;22_Oct_1994
+43;Sadovo, Bulgaria;BUSA;1996;29_Oct_1995
+43;Sadovo, Bulgaria;BUSA;1997;15_Oct_1996
+43;Sadovo, Bulgaria;BUSA;1998;15_Oct_1997
+43;Sadovo, Bulgaria;BUSA;1999;15_Oct_1998
+43;Sadovo, Bulgaria;BUSA;2000;23_Oct_1999
+43;Sadovo, Bulgaria;BUSA;2001;29_Nov_2000
+43;Sadovo, Bulgaria;BUSA;2002;25_Nov_2001
+43;Sadovo, Bulgaria;BUSA;2003;15_Oct_2002
+43;Sadovo, Bulgaria;BUSA;2004;17_Oct_2003
+43;Sadovo, Bulgaria;BUSA;2005;15_Oct_2004
+43;Sadovo, Bulgaria;BUSA;2006;16_Oct_2005
+43;Sadovo, Bulgaria;BUSA;2007;03_Nov_2006
+43;Sadovo, Bulgaria;BUSA;2008;22_Oct_2007
+43;Sadovo, Bulgaria;BUSA;2009;23_Nov_2008
+43;Sadovo, Bulgaria;BUSA;2010;15_Oct_2009
+44;Jokioinen, Finland;FIJO;1981;13_Jun_1981
+44;Jokioinen, Finland;FIJO;1982;01_May_1982
+44;Jokioinen, Finland;FIJO;1983;18_May_1983
+44;Jokioinen, Finland;FIJO;1984;05_May_1984
+44;Jokioinen, Finland;FIJO;1985;03_May_1985
+44;Jokioinen, Finland;FIJO;1986;15_May_1986
+44;Jokioinen, Finland;FIJO;1987;13_May_1987
+44;Jokioinen, Finland;FIJO;1988;05_May_1988
+44;Jokioinen, Finland;FIJO;1989;01_May_1989
+44;Jokioinen, Finland;FIJO;1990;27_May_1990
+44;Jokioinen, Finland;FIJO;1991;03_May_1991
+44;Jokioinen, Finland;FIJO;1992;19_Jun_1992
+44;Jokioinen, Finland;FIJO;1993;14_Jun_1993
+44;Jokioinen, Finland;FIJO;1994;27_May_1994
+44;Jokioinen, Finland;FIJO;1995;01_May_1995
+44;Jokioinen, Finland;FIJO;1996;06_May_1996
+44;Jokioinen, Finland;FIJO;1997;01_May_1997
+44;Jokioinen, Finland;FIJO;1998;06_May_1998
+44;Jokioinen, Finland;FIJO;1999;27_Jun_1999
+44;Jokioinen, Finland;FIJO;2000;27_May_2000
+44;Jokioinen, Finland;FIJO;2001;01_May_2001
+44;Jokioinen, Finland;FIJO;2002;05_May_2002
+44;Jokioinen, Finland;FIJO;2003;01_May_2003
+44;Jokioinen, Finland;FIJO;2004;05_May_2004
+44;Jokioinen, Finland;FIJO;2005;27_May_2005
+44;Jokioinen, Finland;FIJO;2006;24_May_2006
+44;Jokioinen, Finland;FIJO;2007;27_Jun_2007
+44;Jokioinen, Finland;FIJO;2008;18_May_2008
+44;Jokioinen, Finland;FIJO;2009;12_May_2009
+44;Jokioinen, Finland;FIJO;2010;02_May_2010
+45;Yershov, Russia;RUYE;1981;06_Jul_1981
+45;Yershov, Russia;RUYE;1982;08_May_1982
+45;Yershov, Russia;RUYE;1983;06_May_1983
+45;Yershov, Russia;RUYE;1984;29_May_1984
+45;Yershov, Russia;RUYE;1985;20_May_1985
+45;Yershov, Russia;RUYE;1986;07_May_1986
+45;Yershov, Russia;RUYE;1987;13_May_1987
+45;Yershov, Russia;RUYE;1988;11_May_1988
+45;Yershov, Russia;RUYE;1989;08_May_1989
+45;Yershov, Russia;RUYE;1990;06_May_1990
+45;Yershov, Russia;RUYE;1991;13_May_1991
+45;Yershov, Russia;RUYE;1992;18_May_1992
+45;Yershov, Russia;RUYE;1993;01_Jun_1993
+45;Yershov, Russia;RUYE;1994;08_May_1994
+45;Yershov, Russia;RUYE;1995;12_May_1995
+45;Yershov, Russia;RUYE;1996;22_May_1996
+45;Yershov, Russia;RUYE;1997;28_May_1997
+45;Yershov, Russia;RUYE;1998;06_Jul_1998
+45;Yershov, Russia;RUYE;1999;22_May_1999
+45;Yershov, Russia;RUYE;2000;20_May_2000
+45;Yershov, Russia;RUYE;2001;07_May_2001
+45;Yershov, Russia;RUYE;2002;18_Jun_2002
+45;Yershov, Russia;RUYE;2003;10_Jun_2003
+45;Yershov, Russia;RUYE;2004;23_May_2004
+45;Yershov, Russia;RUYE;2005;06_May_2005
+45;Yershov, Russia;RUYE;2006;27_May_2006
+45;Yershov, Russia;RUYE;2007;07_May_2007
+45;Yershov, Russia;RUYE;2008;28_May_2008
+45;Yershov, Russia;RUYE;2009;10_May_2009
+45;Yershov, Russia;RUYE;2010;06_Jul_2010
+46;Altbasar, Kazakhstan;KZAL;1981;10_Apr_1981
+46;Altbasar, Kazakhstan;KZAL;1982;04_Apr_1982
+46;Altbasar, Kazakhstan;KZAL;1983;15_Mar_1983
+46;Altbasar, Kazakhstan;KZAL;1984;06_May_1984
+46;Altbasar, Kazakhstan;KZAL;1985;17_Apr_1985
+46;Altbasar, Kazakhstan;KZAL;1986;09_May_1986
+46;Altbasar, Kazakhstan;KZAL;1987;22_Apr_1987
+46;Altbasar, Kazakhstan;KZAL;1988;03_May_1988
+46;Altbasar, Kazakhstan;KZAL;1989;27_Mar_1989
+46;Altbasar, Kazakhstan;KZAL;1990;16_Mar_1990
+46;Altbasar, Kazakhstan;KZAL;1991;15_May_1991
+46;Altbasar, Kazakhstan;KZAL;1992;15_May_1992
+46;Altbasar, Kazakhstan;KZAL;1993;29_Mar_1993
+46;Altbasar, Kazakhstan;KZAL;1994;01_Apr_1994
+46;Altbasar, Kazakhstan;KZAL;1995;09_May_1995
+46;Altbasar, Kazakhstan;KZAL;1996;26_Apr_1996
+46;Altbasar, Kazakhstan;KZAL;1997;06_May_1997
+46;Altbasar, Kazakhstan;KZAL;1998;14_Apr_1998
+46;Altbasar, Kazakhstan;KZAL;1999;07_May_1999
+46;Altbasar, Kazakhstan;KZAL;2000;15_May_2000
+46;Altbasar, Kazakhstan;KZAL;2001;30_Mar_2001
+46;Altbasar, Kazakhstan;KZAL;2002;07_May_2002
+46;Altbasar, Kazakhstan;KZAL;2003;15_May_2003
+46;Altbasar, Kazakhstan;KZAL;2004;15_May_2004
+46;Altbasar, Kazakhstan;KZAL;2005;22_Mar_2005
+46;Altbasar, Kazakhstan;KZAL;2006;28_Apr_2006
+46;Altbasar, Kazakhstan;KZAL;2007;18_Apr_2007
+46;Altbasar, Kazakhstan;KZAL;2008;15_Mar_2008
+46;Altbasar, Kazakhstan;KZAL;2009;15_May_2009
+46;Altbasar, Kazakhstan;KZAL;2010;18_Mar_2010
+47;Samarkand, Uzbekistan;UZSA;1981;14_Dec_1980
+47;Samarkand, Uzbekistan;UZSA;1982;24_Nov_1981
+47;Samarkand, Uzbekistan;UZSA;1983;11_Nov_1982
+47;Samarkand, Uzbekistan;UZSA;1984;06_Nov_1983
+47;Samarkand, Uzbekistan;UZSA;1985;17_Nov_1984
+47;Samarkand, Uzbekistan;UZSA;1986;07_Dec_1985
+47;Samarkand, Uzbekistan;UZSA;1987;03_Dec_1986
+47;Samarkand, Uzbekistan;UZSA;1988;29_Dec_1987
+47;Samarkand, Uzbekistan;UZSA;1989;20_Dec_1988
+47;Samarkand, Uzbekistan;UZSA;1990;08_Nov_1989
+47;Samarkand, Uzbekistan;UZSA;1991;13_Dec_1990
+47;Samarkand, Uzbekistan;UZSA;1992;21_Nov_1991
+47;Samarkand, Uzbekistan;UZSA;1993;09_Dec_1992
+47;Samarkand, Uzbekistan;UZSA;1994;05_Nov_1993
+47;Samarkand, Uzbekistan;UZSA;1995;11_Nov_1994
+47;Samarkand, Uzbekistan;UZSA;1996;11_Dec_1995
+47;Samarkand, Uzbekistan;UZSA;1997;14_Nov_1996
+47;Samarkand, Uzbekistan;UZSA;1998;05_Nov_1997
+47;Samarkand, Uzbekistan;UZSA;1999;30_Nov_1998
+47;Samarkand, Uzbekistan;UZSA;2000;05_Nov_1999
+47;Samarkand, Uzbekistan;UZSA;2001;08_Nov_2000
+47;Samarkand, Uzbekistan;UZSA;2002;05_Nov_2001
+47;Samarkand, Uzbekistan;UZSA;2003;17_Nov_2002
+47;Samarkand, Uzbekistan;UZSA;2004;05_Nov_2003
+47;Samarkand, Uzbekistan;UZSA;2005;20_Nov_2004
+47;Samarkand, Uzbekistan;UZSA;2006;10_Nov_2005
+47;Samarkand, Uzbekistan;UZSA;2007;10_Nov_2006
+47;Samarkand, Uzbekistan;UZSA;2008;01_Dec_2007
+47;Samarkand, Uzbekistan;UZSA;2009;08_Nov_2008
+47;Samarkand, Uzbekistan;UZSA;2010;24_Nov_2009
+48;Sidi El Aydi, Morocco;MASI;1981;05_Nov_1980
+48;Sidi El Aydi, Morocco;MASI;1982;08_Dec_1981
+48;Sidi El Aydi, Morocco;MASI;1983;09_Nov_1982
+48;Sidi El Aydi, Morocco;MASI;1984;17_Nov_1983
+48;Sidi El Aydi, Morocco;MASI;1985;06_Nov_1984
+48;Sidi El Aydi, Morocco;MASI;1986;21_Nov_1985
+48;Sidi El Aydi, Morocco;MASI;1987;15_Nov_1986
+48;Sidi El Aydi, Morocco;MASI;1988;05_Nov_1987
+48;Sidi El Aydi, Morocco;MASI;1989;12_Nov_1988
+48;Sidi El Aydi, Morocco;MASI;1990;17_Nov_1989
+48;Sidi El Aydi, Morocco;MASI;1991;27_Nov_1990
+48;Sidi El Aydi, Morocco;MASI;1992;02_Dec_1991
+48;Sidi El Aydi, Morocco;MASI;1993;17_Nov_1992
+48;Sidi El Aydi, Morocco;MASI;1994;05_Nov_1993
+48;Sidi El Aydi, Morocco;MASI;1995;05_Nov_1994
+48;Sidi El Aydi, Morocco;MASI;1996;13_Nov_1995
+48;Sidi El Aydi, Morocco;MASI;1997;14_Nov_1996
+48;Sidi El Aydi, Morocco;MASI;1998;07_Nov_1997
+48;Sidi El Aydi, Morocco;MASI;1999;04_Dec_1998
+48;Sidi El Aydi, Morocco;MASI;2000;15_Nov_1999
+48;Sidi El Aydi, Morocco;MASI;2001;16_Nov_2000
+48;Sidi El Aydi, Morocco;MASI;2002;11_Nov_2001
+48;Sidi El Aydi, Morocco;MASI;2003;15_Nov_2002
+48;Sidi El Aydi, Morocco;MASI;2004;05_Nov_2003
+48;Sidi El Aydi, Morocco;MASI;2005;12_Nov_2004
+48;Sidi El Aydi, Morocco;MASI;2006;14_Nov_2005
+48;Sidi El Aydi, Morocco;MASI;2007;17_Nov_2006
+48;Sidi El Aydi, Morocco;MASI;2008;22_Nov_2007
+48;Sidi El Aydi, Morocco;MASI;2009;05_Nov_2008
+48;Sidi El Aydi, Morocco;MASI;2010;01_Dec_2009
+49;Nabeul, Tunisia;TUNA;1981;01_Dec_1980
+49;Nabeul, Tunisia;TUNA;1982;01_Dec_1981
+49;Nabeul, Tunisia;TUNA;1983;01_Dec_1982
+49;Nabeul, Tunisia;TUNA;1984;03_Dec_1983
+49;Nabeul, Tunisia;TUNA;1985;03_Dec_1984
+49;Nabeul, Tunisia;TUNA;1986;05_Jan_1986
+49;Nabeul, Tunisia;TUNA;1987;13_Dec_1986
+49;Nabeul, Tunisia;TUNA;1988;02_Dec_1987
+49;Nabeul, Tunisia;TUNA;1989;10_Dec_1988
+49;Nabeul, Tunisia;TUNA;1990;01_Dec_1989
+49;Nabeul, Tunisia;TUNA;1991;03_Dec_1990
+49;Nabeul, Tunisia;TUNA;1992;04_Dec_1991
+49;Nabeul, Tunisia;TUNA;1993;11_Dec_1992
+49;Nabeul, Tunisia;TUNA;1994;01_Dec_1993
+49;Nabeul, Tunisia;TUNA;1995;23_Dec_1994
+49;Nabeul, Tunisia;TUNA;1996;01_Dec_1995
+49;Nabeul, Tunisia;TUNA;1997;02_Dec_1996
+49;Nabeul, Tunisia;TUNA;1998;01_Dec_1997
+49;Nabeul, Tunisia;TUNA;1999;01_Dec_1998
+49;Nabeul, Tunisia;TUNA;2000;01_Dec_1999
+49;Nabeul, Tunisia;TUNA;2001;04_Dec_2000
+49;Nabeul, Tunisia;TUNA;2002;02_Dec_2001
+49;Nabeul, Tunisia;TUNA;2003;01_Dec_2002
+49;Nabeul, Tunisia;TUNA;2004;01_Dec_2003
+49;Nabeul, Tunisia;TUNA;2005;09_Dec_2004
+49;Nabeul, Tunisia;TUNA;2006;11_Dec_2005
+49;Nabeul, Tunisia;TUNA;2007;01_Dec_2006
+49;Nabeul, Tunisia;TUNA;2008;11_Dec_2007
+49;Nabeul, Tunisia;TUNA;2009;19_Dec_2008
+49;Nabeul, Tunisia;TUNA;2010;03_Dec_2009
+50;Tel Hadya/Aleppo, Syria;SYTH;1981;22_Nov_1980
+50;Tel Hadya/Aleppo, Syria;SYTH;1982;20_Nov_1981
+50;Tel Hadya/Aleppo, Syria;SYTH;1983;06_Dec_1982
+50;Tel Hadya/Aleppo, Syria;SYTH;1984;20_Nov_1983
+50;Tel Hadya/Aleppo, Syria;SYTH;1985;20_Nov_1984
+50;Tel Hadya/Aleppo, Syria;SYTH;1986;27_Nov_1985
+50;Tel Hadya/Aleppo, Syria;SYTH;1987;20_Dec_1986
+50;Tel Hadya/Aleppo, Syria;SYTH;1988;09_Dec_1987
+50;Tel Hadya/Aleppo, Syria;SYTH;1989;20_Nov_1988
+50;Tel Hadya/Aleppo, Syria;SYTH;1990;20_Nov_1989
+50;Tel Hadya/Aleppo, Syria;SYTH;1991;05_Dec_1990
+50;Tel Hadya/Aleppo, Syria;SYTH;1992;20_Nov_1991
+50;Tel Hadya/Aleppo, Syria;SYTH;1993;20_Nov_1992
+50;Tel Hadya/Aleppo, Syria;SYTH;1994;20_Nov_1993
+50;Tel Hadya/Aleppo, Syria;SYTH;1995;20_Nov_1994
+50;Tel Hadya/Aleppo, Syria;SYTH;1996;22_Nov_1995
+50;Tel Hadya/Aleppo, Syria;SYTH;1997;22_Nov_1996
+50;Tel Hadya/Aleppo, Syria;SYTH;1998;20_Nov_1997
+50;Tel Hadya/Aleppo, Syria;SYTH;1999;20_Nov_1998
+50;Tel Hadya/Aleppo, Syria;SYTH;2000;15_Dec_1999
+50;Tel Hadya/Aleppo, Syria;SYTH;2001;30_Nov_2000
+50;Tel Hadya/Aleppo, Syria;SYTH;2002;22_Nov_2001
+50;Tel Hadya/Aleppo, Syria;SYTH;2003;10_Dec_2002
+50;Tel Hadya/Aleppo, Syria;SYTH;2004;20_Nov_2003
+50;Tel Hadya/Aleppo, Syria;SYTH;2005;20_Nov_2004
+50;Tel Hadya/Aleppo, Syria;SYTH;2006;21_Nov_2005
+50;Tel Hadya/Aleppo, Syria;SYTH;2007;22_Dec_2006
+50;Tel Hadya/Aleppo, Syria;SYTH;2008;21_Nov_2007
+50;Tel Hadya/Aleppo, Syria;SYTH;2009;22_Nov_2008
+50;Tel Hadya/Aleppo, Syria;SYTH;2010;06_Dec_2009
+51;Maragheh, Iran;IQMA;1981;13_Nov_1980
+51;Maragheh, Iran;IQMA;1982;06_Nov_1981
+51;Maragheh, Iran;IQMA;1983;09_Nov_1982
+51;Maragheh, Iran;IQMA;1984;12_Nov_1983
+51;Maragheh, Iran;IQMA;1985;19_Oct_1984
+51;Maragheh, Iran;IQMA;1986;20_Nov_1985
+51;Maragheh, Iran;IQMA;1987;14_Oct_1986
+51;Maragheh, Iran;IQMA;1988;24_Oct_1987
+51;Maragheh, Iran;IQMA;1989;19_Oct_1988
+51;Maragheh, Iran;IQMA;1990;30_Oct_1989
+51;Maragheh, Iran;IQMA;1991;13_Dec_1990
+51;Maragheh, Iran;IQMA;1992;17_Oct_1991
+51;Maragheh, Iran;IQMA;1993;08_Nov_1992
+51;Maragheh, Iran;IQMA;1994;17_Oct_1993
+51;Maragheh, Iran;IQMA;1995;06_Nov_1994
+51;Maragheh, Iran;IQMA;1996;03_Nov_1995
+51;Maragheh, Iran;IQMA;1997;17_Oct_1996
+51;Maragheh, Iran;IQMA;1998;03_Nov_1997
+51;Maragheh, Iran;IQMA;1999;30_Nov_1998
+51;Maragheh, Iran;IQMA;2000;03_Nov_1999
+51;Maragheh, Iran;IQMA;2001;13_Dec_2000
+51;Maragheh, Iran;IQMA;2002;19_Nov_2001
+51;Maragheh, Iran;IQMA;2003;25_Nov_2002
+51;Maragheh, Iran;IQMA;2004;11_Nov_2003
+51;Maragheh, Iran;IQMA;2005;03_Nov_2004
+51;Maragheh, Iran;IQMA;2006;08_Nov_2005
+51;Maragheh, Iran;IQMA;2007;27_Oct_2006
+51;Maragheh, Iran;IQMA;2008;24_Nov_2007
+51;Maragheh, Iran;IQMA;2009;25_Oct_2008
+51;Maragheh, Iran;IQMA;2010;01_Nov_2009
+52;Ankara, Turkey;TRAN;1981;01_Nov_1980
+52;Ankara, Turkey;TRAN;1982;11_Sep_1981
+52;Ankara, Turkey;TRAN;1983;14_Oct_1982
+52;Ankara, Turkey;TRAN;1984;01_Nov_1983
+52;Ankara, Turkey;TRAN;1985;01_Nov_1984
+52;Ankara, Turkey;TRAN;1986;17_Oct_1985
+52;Ankara, Turkey;TRAN;1987;04_Sep_1986
+52;Ankara, Turkey;TRAN;1988;01_Nov_1987
+52;Ankara, Turkey;TRAN;1989;27_Oct_1988
+52;Ankara, Turkey;TRAN;1990;02_Oct_1989
+52;Ankara, Turkey;TRAN;1991;14_Sep_1990
+52;Ankara, Turkey;TRAN;1992;02_Sep_1991
+52;Ankara, Turkey;TRAN;1993;25_Oct_1992
+52;Ankara, Turkey;TRAN;1994;01_Nov_1993
+52;Ankara, Turkey;TRAN;1995;25_Sep_1994
+52;Ankara, Turkey;TRAN;1996;03_Oct_1995
+52;Ankara, Turkey;TRAN;1997;09_Sep_1996
+52;Ankara, Turkey;TRAN;1998;19_Oct_1997
+52;Ankara, Turkey;TRAN;1999;28_Oct_1998
+52;Ankara, Turkey;TRAN;2000;06_Sep_1999
+52;Ankara, Turkey;TRAN;2001;24_Oct_2000
+52;Ankara, Turkey;TRAN;2002;01_Nov_2001
+52;Ankara, Turkey;TRAN;2003;06_Sep_2002
+52;Ankara, Turkey;TRAN;2004;26_Oct_2003
+52;Ankara, Turkey;TRAN;2005;01_Nov_2004
+52;Ankara, Turkey;TRAN;2006;25_Sep_2005
+52;Ankara, Turkey;TRAN;2007;02_Sep_2006
+52;Ankara, Turkey;TRAN;2008;16_Oct_2007
+52;Ankara, Turkey;TRAN;2009;22_Sep_2008
+52;Ankara, Turkey;TRAN;2010;01_Nov_2009
+53;Ghoochan, Iran;IRGH;1981;24_Oct_1980
+53;Ghoochan, Iran;IRGH;1982;23_Nov_1981
+53;Ghoochan, Iran;IRGH;1983;10_Nov_1982
+53;Ghoochan, Iran;IRGH;1984;13_Dec_1983
+53;Ghoochan, Iran;IRGH;1985;21_Oct_1984
+53;Ghoochan, Iran;IRGH;1986;06_Dec_1985
+53;Ghoochan, Iran;IRGH;1987;03_Dec_1986
+53;Ghoochan, Iran;IRGH;1988;28_Oct_1987
+53;Ghoochan, Iran;IRGH;1989;30_Nov_1988
+53;Ghoochan, Iran;IRGH;1990;02_Nov_1989
+53;Ghoochan, Iran;IRGH;1991;14_Nov_1990
+53;Ghoochan, Iran;IRGH;1992;13_Dec_1991
+53;Ghoochan, Iran;IRGH;1993;05_Dec_1992
+53;Ghoochan, Iran;IRGH;1994;03_Nov_1993
+53;Ghoochan, Iran;IRGH;1995;08_Nov_1994
+53;Ghoochan, Iran;IRGH;1996;15_Dec_1995
+53;Ghoochan, Iran;IRGH;1997;13_Nov_1996
+53;Ghoochan, Iran;IRGH;1998;02_Nov_1997
+53;Ghoochan, Iran;IRGH;1999;15_Dec_1998
+53;Ghoochan, Iran;IRGH;2000;10_Nov_1999
+53;Ghoochan, Iran;IRGH;2001;19_Oct_2000
+53;Ghoochan, Iran;IRGH;2002;29_Nov_2001
+53;Ghoochan, Iran;IRGH;2003;03_Nov_2002
+53;Ghoochan, Iran;IRGH;2004;06_Nov_2003
+53;Ghoochan, Iran;IRGH;2005;20_Nov_2004
+53;Ghoochan, Iran;IRGH;2006;24_Oct_2005
+53;Ghoochan, Iran;IRGH;2007;10_Nov_2006
+53;Ghoochan, Iran;IRGH;2008;24_Nov_2007
+53;Ghoochan, Iran;IRGH;2009;08_Dec_2008
+53;Ghoochan, Iran;IRGH;2010;25_Nov_2009
+54;Urmar, Pakistan;PKUR;1981;10_Jan_1981
+54;Urmar, Pakistan;PKUR;1982;15_Jan_1982
+54;Urmar, Pakistan;PKUR;1983;16_Nov_1982
+54;Urmar, Pakistan;PKUR;1984;15_Jan_1984
+54;Urmar, Pakistan;PKUR;1985;18_Nov_1984
+54;Urmar, Pakistan;PKUR;1986;09_Dec_1985
+54;Urmar, Pakistan;PKUR;1987;16_Nov_1986
+54;Urmar, Pakistan;PKUR;1988;04_Jan_1988
+54;Urmar, Pakistan;PKUR;1989;20_Dec_1988
+54;Urmar, Pakistan;PKUR;1990;22_Dec_1989
+54;Urmar, Pakistan;PKUR;1991;17_Dec_1990
+54;Urmar, Pakistan;PKUR;1992;15_Jan_1992
+54;Urmar, Pakistan;PKUR;1993;13_Dec_1992
+54;Urmar, Pakistan;PKUR;1994;15_Jan_1994
+54;Urmar, Pakistan;PKUR;1995;09_Dec_1994
+54;Urmar, Pakistan;PKUR;1996;30_Nov_1995
+54;Urmar, Pakistan;PKUR;1997;21_Nov_1996
+54;Urmar, Pakistan;PKUR;1998;14_Dec_1997
+54;Urmar, Pakistan;PKUR;1999;05_Jan_1999
+54;Urmar, Pakistan;PKUR;2000;13_Jan_2000
+54;Urmar, Pakistan;PKUR;2001;18_Dec_2000
+54;Urmar, Pakistan;PKUR;2002;15_Nov_2001
+54;Urmar, Pakistan;PKUR;2003;24_Dec_2002
+54;Urmar, Pakistan;PKUR;2004;17_Nov_2003
+54;Urmar, Pakistan;PKUR;2005;30_Nov_2004
+54;Urmar, Pakistan;PKUR;2006;28_Nov_2005
+54;Urmar, Pakistan;PKUR;2007;15_Nov_2006
+54;Urmar, Pakistan;PKUR;2008;01_Dec_2007
+54;Urmar, Pakistan;PKUR;2009;09_Dec_2008
+54;Urmar, Pakistan;PKUR;2010;26_Nov_2009
+55;Dingxi, China;CHDI;1981;18_Apr_1981
+55;Dingxi, China;CHDI;1982;23_Apr_1982
+55;Dingxi, China;CHDI;1983;23_Mar_1983
+55;Dingxi, China;CHDI;1984;04_Apr_1984
+55;Dingxi, China;CHDI;1985;09_Apr_1985
+55;Dingxi, China;CHDI;1986;29_Apr_1986
+55;Dingxi, China;CHDI;1987;25_Apr_1987
+55;Dingxi, China;CHDI;1988;06_May_1988
+55;Dingxi, China;CHDI;1989;21_Apr_1989
+55;Dingxi, China;CHDI;1990;27_Mar_1990
+55;Dingxi, China;CHDI;1991;12_Apr_1991
+55;Dingxi, China;CHDI;1992;09_Apr_1992
+55;Dingxi, China;CHDI;1993;01_May_1993
+55;Dingxi, China;CHDI;1994;11_Apr_1994
+55;Dingxi, China;CHDI;1995;22_Apr_1995
+55;Dingxi, China;CHDI;1996;27_Mar_1996
+55;Dingxi, China;CHDI;1997;22_Apr_1997
+55;Dingxi, China;CHDI;1998;06_Apr_1998
+55;Dingxi, China;CHDI;1999;20_Apr_1999
+55;Dingxi, China;CHDI;2000;11_May_2000
+55;Dingxi, China;CHDI;2001;21_Apr_2001
+55;Dingxi, China;CHDI;2002;05_Apr_2002
+55;Dingxi, China;CHDI;2003;01_Apr_2003
+55;Dingxi, China;CHDI;2004;26_Apr_2004
+55;Dingxi, China;CHDI;2005;08_Apr_2005
+55;Dingxi, China;CHDI;2006;09_Apr_2006
+55;Dingxi, China;CHDI;2007;16_Mar_2007
+55;Dingxi, China;CHDI;2008;12_Apr_2008
+55;Dingxi, China;CHDI;2009;23_Apr_2009
+55;Dingxi, China;CHDI;2010;20_Apr_2010
+56;Xuchang, China;CHXC;1981;10_Dec_1980
+56;Xuchang, China;CHXC;1982;02_Nov_1981
+56;Xuchang, China;CHXC;1983;28_Nov_1982
+56;Xuchang, China;CHXC;1984;14_Oct_1983
+56;Xuchang, China;CHXC;1985;10_Nov_1984
+56;Xuchang, China;CHXC;1986;12_Oct_1985
+56;Xuchang, China;CHXC;1987;17_Oct_1986
+56;Xuchang, China;CHXC;1988;13_Oct_1987
+56;Xuchang, China;CHXC;1989;16_Oct_1988
+56;Xuchang, China;CHXC;1990;03_Nov_1989
+56;Xuchang, China;CHXC;1991;08_Nov_1990
+56;Xuchang, China;CHXC;1992;07_Nov_1991
+56;Xuchang, China;CHXC;1993;10_Dec_1992
+56;Xuchang, China;CHXC;1994;13_Oct_1993
+56;Xuchang, China;CHXC;1995;15_Oct_1994
+56;Xuchang, China;CHXC;1996;14_Oct_1995
+56;Xuchang, China;CHXC;1997;10_Oct_1996
+56;Xuchang, China;CHXC;1998;11_Nov_1997
+56;Xuchang, China;CHXC;1999;10_Dec_1998
+56;Xuchang, China;CHXC;2000;14_Oct_1999
+56;Xuchang, China;CHXC;2001;11_Oct_2000
+56;Xuchang, China;CHXC;2002;25_Oct_2001
+56;Xuchang, China;CHXC;2003;20_Oct_2002
+56;Xuchang, China;CHXC;2004;11_Oct_2003
+56;Xuchang, China;CHXC;2005;09_Nov_2004
+56;Xuchang, China;CHXC;2006;10_Dec_2005
+56;Xuchang, China;CHXC;2007;23_Nov_2006
+56;Xuchang, China;CHXC;2008;10_Dec_2007
+56;Xuchang, China;CHXC;2009;21_Oct_2008
+56;Xuchang, China;CHXC;2010;12_Nov_2009
+57;Merredin, Australia;AUME;1981;24_May_1981
+57;Merredin, Australia;AUME;1982;24_May_1982
+57;Merredin, Australia;AUME;1983;03_Jun_1983
+57;Merredin, Australia;AUME;1984;20_May_1984
+57;Merredin, Australia;AUME;1985;08_Jun_1985
+57;Merredin, Australia;AUME;1986;15_May_1986
+57;Merredin, Australia;AUME;1987;07_Jun_1987
+57;Merredin, Australia;AUME;1988;15_May_1988
+57;Merredin, Australia;AUME;1989;16_May_1989
+57;Merredin, Australia;AUME;1990;06_Jun_1990
+57;Merredin, Australia;AUME;1991;04_Jun_1991
+57;Merredin, Australia;AUME;1992;12_Jun_1992
+57;Merredin, Australia;AUME;1993;28_May_1993
+57;Merredin, Australia;AUME;1994;23_May_1994
+57;Merredin, Australia;AUME;1995;15_May_1995
+57;Merredin, Australia;AUME;1996;16_Jun_1996
+57;Merredin, Australia;AUME;1997;15_May_1997
+57;Merredin, Australia;AUME;1998;15_May_1998
+57;Merredin, Australia;AUME;1999;20_May_1999
+57;Merredin, Australia;AUME;2000;13_Jul_2000
+57;Merredin, Australia;AUME;2001;21_May_2001
+57;Merredin, Australia;AUME;2002;05_Jun_2002
+57;Merredin, Australia;AUME;2003;15_May_2003
+57;Merredin, Australia;AUME;2004;24_May_2004
+57;Merredin, Australia;AUME;2005;15_May_2005
+57;Merredin, Australia;AUME;2006;25_Jul_2006
+57;Merredin, Australia;AUME;2007;28_May_2007
+57;Merredin, Australia;AUME;2008;28_Jun_2008
+57;Merredin, Australia;AUME;2009;22_May_2009
+57;Merredin, Australia;AUME;2010;15_May_2010
+58;Wimmera, Australia;AUWI;1981;24_May_1981
+58;Wimmera, Australia;AUWI;1982;06_May_1982
+58;Wimmera, Australia;AUWI;1983;02_May_1983
+58;Wimmera, Australia;AUWI;1984;23_May_1984
+58;Wimmera, Australia;AUWI;1985;29_May_1985
+58;Wimmera, Australia;AUWI;1986;07_May_1986
+58;Wimmera, Australia;AUWI;1987;01_May_1987
+58;Wimmera, Australia;AUWI;1988;05_May_1988
+58;Wimmera, Australia;AUWI;1989;04_May_1989
+58;Wimmera, Australia;AUWI;1990;13_Jun_1990
+58;Wimmera, Australia;AUWI;1991;02_Jun_1991
+58;Wimmera, Australia;AUWI;1992;08_May_1992
+58;Wimmera, Australia;AUWI;1993;08_May_1993
+58;Wimmera, Australia;AUWI;1994;18_May_1994
+58;Wimmera, Australia;AUWI;1995;01_May_1995
+58;Wimmera, Australia;AUWI;1996;13_May_1996
+58;Wimmera, Australia;AUWI;1997;04_May_1997
+58;Wimmera, Australia;AUWI;1998;23_May_1998
+58;Wimmera, Australia;AUWI;1999;23_May_1999
+58;Wimmera, Australia;AUWI;2000;01_May_2000
+58;Wimmera, Australia;AUWI;2001;07_Jun_2001
+58;Wimmera, Australia;AUWI;2002;17_May_2002
+58;Wimmera, Australia;AUWI;2003;18_May_2003
+58;Wimmera, Australia;AUWI;2004;18_May_2004
+58;Wimmera, Australia;AUWI;2005;24_May_2005
+58;Wimmera, Australia;AUWI;2006;01_May_2006
+58;Wimmera, Australia;AUWI;2007;01_May_2007
+58;Wimmera, Australia;AUWI;2008;01_May_2008
+58;Wimmera, Australia;AUWI;2009;25_May_2009
+58;Wimmera, Australia;AUWI;2010;26_May_2010
+59;Adi Gudom, Ethiopia;ETAG;1981;06_Jul_1981
+59;Adi Gudom, Ethiopia;ETAG;1982;04_Jul_1982
+59;Adi Gudom, Ethiopia;ETAG;1983;01_Jul_1983
+59;Adi Gudom, Ethiopia;ETAG;1984;06_Jul_1984
+59;Adi Gudom, Ethiopia;ETAG;1985;20_Jun_1985
+59;Adi Gudom, Ethiopia;ETAG;1986;15_Jun_1986
+59;Adi Gudom, Ethiopia;ETAG;1987;24_Jun_1987
+59;Adi Gudom, Ethiopia;ETAG;1988;10_Jul_1988
+59;Adi Gudom, Ethiopia;ETAG;1989;15_Jun_1989
+59;Adi Gudom, Ethiopia;ETAG;1990;23_Jun_1990
+59;Adi Gudom, Ethiopia;ETAG;1991;25_Jun_1991
+59;Adi Gudom, Ethiopia;ETAG;1992;12_Jul_1992
+59;Adi Gudom, Ethiopia;ETAG;1993;08_Jul_1993
+59;Adi Gudom, Ethiopia;ETAG;1994;27_Jun_1994
+59;Adi Gudom, Ethiopia;ETAG;1995;15_Jun_1995
+59;Adi Gudom, Ethiopia;ETAG;1996;25_Jun_1996
+59;Adi Gudom, Ethiopia;ETAG;1997;21_Jun_1997
+59;Adi Gudom, Ethiopia;ETAG;1998;24_Jun_1998
+59;Adi Gudom, Ethiopia;ETAG;1999;04_Jul_1999
+59;Adi Gudom, Ethiopia;ETAG;2000;25_Jun_2000
+59;Adi Gudom, Ethiopia;ETAG;2001;22_Jun_2001
+59;Adi Gudom, Ethiopia;ETAG;2002;18_Jun_2002
+59;Adi Gudom, Ethiopia;ETAG;2003;26_Jun_2003
+59;Adi Gudom, Ethiopia;ETAG;2004;15_Jun_2004
+59;Adi Gudom, Ethiopia;ETAG;2005;15_Jun_2005
+59;Adi Gudom, Ethiopia;ETAG;2006;30_Jun_2006
+59;Adi Gudom, Ethiopia;ETAG;2007;26_Jun_2007
+59;Adi Gudom, Ethiopia;ETAG;2008;15_Jun_2008
+59;Adi Gudom, Ethiopia;ETAG;2009;15_Jun_2009
+59;Adi Gudom, Ethiopia;ETAG;2010;15_Jun_2010
+60;Glen, South Africa;ZABL;1981;04_Jun_1981
+60;Glen, South Africa;ZABL;1982;03_Jul_1982
+60;Glen, South Africa;ZABL;1983;16_May_1983
+60;Glen, South Africa;ZABL;1984;15_Jul_1984
+60;Glen, South Africa;ZABL;1985;27_Jun_1985
+60;Glen, South Africa;ZABL;1986;15_Jul_1986
+60;Glen, South Africa;ZABL;1987;15_Jul_1987
+60;Glen, South Africa;ZABL;1988;15_Jul_1988
+60;Glen, South Africa;ZABL;1989;29_May_1989
+60;Glen, South Africa;ZABL;1990;15_Jul_1990
+60;Glen, South Africa;ZABL;1991;19_Jun_1991
+60;Glen, South Africa;ZABL;1992;15_Jul_1992
+60;Glen, South Africa;ZABL;1993;15_Jul_1993
+60;Glen, South Africa;ZABL;1994;15_Jul_1994
+60;Glen, South Africa;ZABL;1995;15_Jul_1995
+60;Glen, South Africa;ZABL;1996;15_Jul_1996
+60;Glen, South Africa;ZABL;1997;27_May_1997
+60;Glen, South Africa;ZABL;1998;15_Jul_1998
+60;Glen, South Africa;ZABL;1999;19_May_1999
+60;Glen, South Africa;ZABL;2000;15_Jul_2000
+60;Glen, South Africa;ZABL;2001;26_Jun_2001
+60;Glen, South Africa;ZABL;2002;23_May_2002
+60;Glen, South Africa;ZABL;2003;15_Jul_2003
+60;Glen, South Africa;ZABL;2004;15_Jul_2004
+60;Glen, South Africa;ZABL;2005;16_May_2005
+60;Glen, South Africa;ZABL;2006;15_Jul_2006
+60;Glen, South Africa;ZABL;2007;06_Jun_2007
+60;Glen, South Africa;ZABL;2008;26_May_2008
+60;Glen, South Africa;ZABL;2009;12_Jun_2009
+60;Glen, South Africa;ZABL;2010;15_Jul_2010
